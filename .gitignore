@@ -1,0 +1,8 @@
+/venv/*
+pyvenv.cfg
+fabric_stain_dataset/*
+fashion/*
+*.tar
+/fabric_stain_dataset
+*.jpg
+prebuilt_mask_rcnn.zip
